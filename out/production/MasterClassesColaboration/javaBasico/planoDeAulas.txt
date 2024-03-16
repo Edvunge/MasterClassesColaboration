@@ -1,0 +1,20 @@
+ ----------   Plano De Estudos ----------
+
+* Versionamento de codigo( Git  )
+    - Comandos mais usados
+* Hospedagem e repositorio( GitHub )
+    - criaçao de projectos, pullrequest
+
+* Java core (basico, estrt. control, arrays, matrizes)
+    - Basico (variaveis, laços, ciclos)
+    - Arrays (manipulaçoes, criaçao, interaçao)
+    - Matrizes(arrays bidimensionais)
+* Entidade e relacionamento
+* Base de Dados Relacioal( mySql / PostgreSQL )
+* POO - Programação Orientada a Objecto
+
+* Preparação para entrevistas
+* Basico de internet( http, dns, hosting etc)
+* Basico de REST (CRUD - CREATE READ UPDATE DELETE)
+* Basico de JSON APIS - XML
+* Basico de JWT / SPRING
