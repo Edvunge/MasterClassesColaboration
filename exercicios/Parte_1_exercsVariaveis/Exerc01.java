@@ -16,6 +16,6 @@ public class Exerc01 {
         System.out.println("Digite um numero inteiro: ");
         d= sc.nextInt();
         System.out.println("Numero inteiro: "  + d);
-        sc.nextInt();10
+        sc.nextInt();
     }
 }
