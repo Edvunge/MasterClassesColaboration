@@ -16,6 +16,6 @@ public class Exerc01 {
         System.out.println("Digite um numero inteiro: ");
         d= sc.nextInt();
         System.out.println("Numero inteiro: "  + d);
-        sc.nextInt();
+        sc.close(); // sc.close serve para fechar o programa ou  objeto sc.
     }
 }
