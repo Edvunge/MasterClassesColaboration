@@ -1,0 +1,19 @@
+online (github)
+maquina(pc - git )
+
+
+git add -A
+	main
+pc	          \mac
+ed                        dan
+
+
+
+
+
+
+git status
+git add -A
+git commit -m "comentario_do_commit"
+git push
+git status
