@@ -19,4 +19,6 @@ public class Exerc01 {
         System.out.println("Numero inteiro: "  + number);
         sc.close(); // O close() serve para fechar o programa ou  objeto sc.
     }
+
+
 }
